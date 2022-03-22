@@ -169,7 +169,8 @@ pre {
 /*                      HEADER                              
 /*=================================================================*/
 header.left {
-  color: #000;
+  color: #FFF;
+  background: hsl(130, 100%, 64%);
   border-radius: 20px;
   min-height: 620px;
   max-height: 620px;
